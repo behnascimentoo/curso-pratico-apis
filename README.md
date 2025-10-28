@@ -41,7 +41,7 @@ Ao final do curso, o aluno será capaz de:
 
 ---
 
-## 👨‍💻 Autor  
+## 👨‍💻 Autora
 
-Feito com 💙 para fins educacionais.  
+Feito com 💚 por **[Brenda Nascimento](https://github.com/behnascimentoo)**  
 Sinta-se à vontade para contribuir ou deixar sugestões!  
